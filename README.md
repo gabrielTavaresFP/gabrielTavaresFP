@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Gabriel 👋
 
-<!--
-**gabrielTavaresFP/gabrielTavaresFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Building with Spring Boot & AWS
+Based in Brasília, Brazil · Open to remote opportunities
 
-Here are some ideas to get you started:
+**Currently:**
+- Finishing Java fundamentals (DevDojo course)
+- Learning Spring Boot + REST APIs
+- Improving English for international roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**
+Java · Spring Boot · HTML · CSS · JavaScript · Git · SQL
+
+**Goals for 2025:**
+- First internship or freelance client
+- AWS Cloud Practitioner certification
+- First deployed project on the web
+
+📫 Reach me: gabrieltavares8182pessoal@gmail.comm

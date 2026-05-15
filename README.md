@@ -1,19 +1,23 @@
 ### Hi, I'm Gabriel 👋
 
-Java Backend Developer | Building with Spring Boot & AWS.
-Based in Brasília, Brazil · Open to remote opportunities
+Java backend developer building toward international opportunities.
 
-**Currently:**
-- Finishing Java fundamentals (DevDojo course)
-- Learning Spring Boot + REST APIs
-- Improving English for international roles
+**Currently learning**
+- Java (OOP, Collections, Exceptions) — DevDojo course
+- Spring Boot & REST APIs — starting soon
+- Git & GitHub best practices
 
-**Tech stack:**
-Java · Spring Boot · HTML · CSS · JavaScript · Git · SQL
+**Tech I already know**
+- HTML · CSS · JavaScript (2 years)
+- Java fundamentals in progress
+- Git basics
 
-**Goals for 2025:**
+**Goals for the next 12 months**
 - First internship or freelance client
 - AWS Cloud Practitioner certification
-- First deployed project on the web
+- First deployed full-stack project
 
-📫 Reach me: gabrieltavares8182pessoal@gmail.comm
+**Find me**
+- 📍 Brasília, Brazil
+- 📧 gabrieltavares8182pessoal@gmail.com
+

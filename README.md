@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel 👋
 
-Java Backend Developer | Building with Spring Boot & AWS
+Java Backend Developer | Building with Spring Boot & AWS.
 Based in Brasília, Brazil · Open to remote opportunities
 
 **Currently:**
